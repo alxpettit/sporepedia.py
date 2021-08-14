@@ -1,4 +1,6 @@
-﻿import SporeAPICoreUtils as spore
+﻿#!/usr/bin/env python3
+
+import SporeAPICoreUtils as spore
 import requests
 from bs4 import BeautifulSoup as bs
 
